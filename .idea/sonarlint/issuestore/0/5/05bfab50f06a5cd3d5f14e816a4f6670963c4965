@@ -1,0 +1,9 @@
+
+„python:S1542"`Rename function "getNowPlayingMovie_list" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Š¯ªúÿÿÿÿ8ÃÛ¸Ú…-
+ˆpython:S1177"eRename this local variable "NowPlayingMovie_list" to match the regular expression ^[_a-z][a-z0-9_]*$.(´ÎÖ¾øÿÿÿÿ8ÃÛ¸Ú…-
+python:S117:"aRename this local variable "commentList_temp" to match the regular expression ^[_a-z][a-z0-9_]*$.(ì…”—8ÃÛ¸Ú…-
+~python:S117$"`Rename this local variable "eachCommentList" to match the regular expression ^[_a-z][a-z0-9_]*$.(ùÌ“¤8ÃÛ¸Ú…-
+zpython:S1176"\Rename this local variable "commentList" to match the regular expression ^[_a-z][a-z0-9_]*$.(ğ…ã8ÃÛ¸Ú…-
+vpython:S117#"SRename this parameter "pageNum" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ş¬Ÿÿÿÿÿÿ8ÃÛ¸Ú…-
+vpython:S117#"SRename this parameter "movieId" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ş¬Ÿÿÿÿÿÿ8ÃÛ¸Ú…-
+|python:S1542#"XRename function "getCommentsById" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ş¬Ÿÿÿÿÿÿ8ÃÛ¸Ú…-
